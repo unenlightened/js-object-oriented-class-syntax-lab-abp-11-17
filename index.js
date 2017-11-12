@@ -48,7 +48,7 @@ class Teacher extends User {
     console.log('hello')
   }
 }
-
+let tom = new Teacher("Tom", "tom@geocities.edu")
 tom.sayHello()
 
 console.log('yo')
